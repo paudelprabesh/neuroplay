@@ -1,1 +1,1 @@
-Please manually install the required components. Sklearn, pygame and numpy may only be additional required package. Sklearn is just used for pre-processing and the remaining is done using numpy.
+Trained a feed-forward neural networks to play a game(Flappy bird) on its own using genetic algorithm(NEAT)
